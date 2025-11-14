@@ -60,16 +60,6 @@ Now type a question, e.g.:
 What is the real remedy according to the text?
 ```
 
-### 5) (Optional) One-shot question
-```bash
-python main.py --ask "What is the role of the shastras here?"
-```
-
-### 6) (Optional) Rebuild the Vector Store
-If you edit `speech.txt` and want to rebuild embeddings:
-```bash
-python main.py --rebuild
-```
 
 ---
 
