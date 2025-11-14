@@ -1,4 +1,4 @@
-# AmbedkarGPT – Intern Assignment (Kalpit Pvt Ltd, UK)
+# AmbedkarGPT – Intern Task
 
 A simple **local Retrieval-Augmented Generation (RAG)** system built exactly according to the assignment requirements.
 
