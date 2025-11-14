@@ -23,7 +23,7 @@ AmbedkarGPT-Intern-Task/
 
 ---
 
-## ⚙️ Setup (Step-by-step)
+## Setup (Step-by-step)
 
 ### 1) Install Ollama & Pull Mistral
 **macOS (Intel/M1/M2):**
